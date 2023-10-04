@@ -18,7 +18,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "&lt;p style=“text-align: center;”&gt;\nText as Data for Social Scientists (pt-br)\n&lt;/p&gt;"
+    "text": "&lt;div style=“text-align: center;”&gt;\nText as Data for Social Scientists (pt-br)\n&lt;/div&gt;"
   },
   {
     "objectID": "research.html#publications",
@@ -67,6 +67,6 @@
     "href": "research.html#books",
     "title": "Research",
     "section": "",
-    "text": "&lt;p style=“text-align: center;”&gt;\nText as Data for Social Scientists (pt-br)\n&lt;/p&gt;"
+    "text": "&lt;div style=“text-align: center;”&gt;\nText as Data for Social Scientists (pt-br)\n&lt;/div&gt;"
   }
 ]

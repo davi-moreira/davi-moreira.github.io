@@ -6,11 +6,11 @@ title: "Research"
 
 [![](txt4cs.webp){fig-align="center" width="252"}](https://bookdown.org/davi_moreira/txt4cs/)
 
-\<p style="text-align: center;"\>
+\<div style="text-align: center;"\>
 
 [Text as Data for Social Scientists (pt-br)](https://bookdown.org/davi_moreira/txt4cs/)
 
-\</p\>
+\</div\>
 
 ## **Publications** 
 
