@@ -10,7 +10,7 @@ title: "Research"
 [Text as Data for Social Scientists (pt-br)](https://bookdown.org/davi_moreira/txt4cs/)
 :::
 
-**Publications**
+##**Publications**
 
 **2023**
 
