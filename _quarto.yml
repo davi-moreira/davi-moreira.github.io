@@ -9,6 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
+      - books.qmd
+      - awards.qmd
+      - applied_projects.qmd
+      - interviews.qmd
+      - blog.qmd
 
 format:
   html:
