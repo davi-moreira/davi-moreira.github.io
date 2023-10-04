@@ -1,19 +1,18 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "davi-moreira.github.io"
+  title: "Davi Moreira"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - research.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-editor: visual
-
+    page-layout: full
