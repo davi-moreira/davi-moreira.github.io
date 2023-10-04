@@ -1,0 +1,49 @@
+---
+title: "Blog"
+---
+
+# **Ciências Sociais Computacionais: texto como dado**
+
+Na última semana (21 de junho de 2022) tive a oportunidade de apresentar seminário sobre Ciências Sociais Computacionais e tratar especialmente da abordagem do Texto como Dado para o PPGCP/UFPA. A apresentação está publicada no YouTube: <https://www.youtube.com/watch?v=2gfXaBu6LHE>
+
+# **Teoria da conspiração e agenda internacional**
+
+Em 29 de janeiro de 2021 foi publicada no jornal Valor Econômico matéria sobre pesquisa com a qual contribuo: <https://valor.globo.com/eu-e/noticia/2021/01/29/como-as-teorias-da-conspiracao-guiam-a-agenda-internacional-de-bolsonaro.ghtml>
+
+# **X Seminário de Observatórios: ciência aberta, transparência e democracia em contexto de crises**
+
+No dia 27 de outubro de 2020 participei da décima edição do Seminário de Observatórios promovido pelo Instituto Humanitas Unisinus (IHU). Nessa edição, estive na mesa Experiências: Políticas de dados abertos junto com a pesquisadora Marília Gehrke (UFRGS). Nossas falas e o debate podem ser encontrados nesse link do YouTube: <https://www.youtube.com/watch?v=26UnZeRix-w&feature=youtu.be>
+
+# **PODMÉTODOS \| Populismo: conceito, mensuração e implicações em políticas públicas**
+
+Em 11 de junho de 2020, eu e meu colega [Umberto Mignozzetti](https://umbertomig.com/) falamos sobre \"Populismo: conceito, mensuração e implicações em políticas públicas\" no episódio 07 do PODMÉTODOS. [É possível ouvir o episódio no canal disponível no Spotify!](https://open.spotify.com/episode/3A84avyeYatz0UQ54snT85?si=wdFQ0KF2SwCQu6ADhiOGiA)
+
+# **Webinar \| Populismo em tempos de pandemia**
+
+Em 29 de abril de 2020, eu e meu colega [Umberto Mignozzetti](https://umbertomig.com/) falamos sobre \"Populismo em tempos de pandemia\". [O webinar pode ser visto no canal da FGV no YouTube!](https://www.youtube.com/watch?v=dwnFX5rIySE&t=52s)
+
+# **Tecnologias, dados e políticas públicas: desafios no cenário contemporâneo**
+
+No dia 30 de outubro de 2019 tive a oportunidade de fazer a conferência de abertura do [IX Seminário de Observatórios](http://www.ihu.unisinos.br/evento/ix-seminario-de-observatorios), realizado pelo Instituto Humanitas Unisinos (IHU) na Unisinos em Porto Alegre-RS. [O vídeo está aqui para quem quiser conferir!](https://www.youtube.com/watch?v=xJxptxMUdIk&t=12s)
+
+Na mesma oportunidade também participei do painel Observatórios, Tecnologia e Democracia: desafios contemporâneos junto com a Pesquisadora Anne Clinio (Fiocruz).
+
+# **Nunca é tarde...**
+
+Não fui muito produtivo na iniciativa do blog, mas no ano de 2017 pude publicar sobre um pouco do que estive desenvolvendo nos projetos do Banco Mundial em Moçambique, segue link:
+
+<https://blogs.worldbank.org/opendata/improving-how-we-measure-progress-community-biodiversity-conservation-projects-mozambique>
+
+# **Iniciando os trabalhos**
+
+Faz tempo que desejo começar um blog. Como todos que trabalham com estatística e programação, por vezes fui beneficiado pelo trabalho de desconhecidos que publicaram seus códigos e suas ideias na rede. É este o principal objetivo deste espaço.
+
+Para ser produtivo, desde já indico que não serei purista nas minhas publicações. Não vou ficar revisando meu código ou meu texto para publicar. Assim que tiver algo que possa ser útil para alguém, vou fazer questão de publicá-lo, mesmo sem a devida revisão e rigor que esta atividade pode merecer. Peço desculpas por isso, mas para contribuir ao máximo com as ideias e o conteúdo da rede, vou adotar a estratégia de que o ótimo é inimigo do bom! Me perdoem pelos possíveis erros que possa cometer.
+
+Tudo o que for publicado pode ser utilizado de forma livre e gratuita. Peço a gentileza de citarem a fonte quando puderem e estarei aberto a quaisquer comentários. Na medida do possível -- hoje faço doutorado e trabalho no mínimo 40 horas semanais -, vou me esforçar para responder a todas as indagações. No entanto, é importante deixar claro que este será mais um espaço de publicação do que de debate.
+
+De forma secundária, este blog será feito para mim mesmo. Desejo manter o registro de coisas que considero importantes para a minha vida e minha atividade profissional.
+
+A princípio as publicações estarão em português, mas pode ser que eventualmente eu faça alguma coisa na língua inglesa. Recomendo a todos os seres deste planeta que aprendam essa língua como meio para maximizar sua existência. O inglês não só se tornou a língua da Ciência contemporânea, como compõe a maior parte do conteúdo publicado na internet.
+
+É isso aí, vamos colocar a mão na massa!
