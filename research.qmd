@@ -2,7 +2,13 @@
 title: "Research"
 ---
 
-## **Publications**
+## **Books** 
+
+[![](txt4cs.webp){fig-align="center" width="252"}](https://bookdown.org/davi_moreira/txt4cs/)
+
+[Text as Data for Social Scientists (pt-br)](https://bookdown.org/davi_moreira/txt4cs/).
+
+## **Publications** 
 
 Guimarães, F. Moreira, D. Silva, I Mello, A. (2023). [*Conspiracy Theories and Foreign Policy Narratives: Globalism in Jair Bolsonaro's foreign policy*](https://journals.sagepub.com/doi/full/10.1177/0094582X221147504). Latin Amercan Perspectives.
 
@@ -30,3 +36,5 @@ Magalhães, Rafael; Ferrari, Diogo; Galdino, Manoel; Moreira, D. C. (2013). [*P
 Mancuso, Wagner Pralon; Moreira, D. C. (2013). [Benefícios tributários valem a pena?: um estudo de formulação de políticas públicas.](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-44782013000100009&lng=pt&nrm=iso&tlng=en) Revista de Sociologia e Política (UFPR. Impresso), v. 21, p. 107-121.
 
 Moreira, D. C. (2011). Master Dissertation. [*Federal Tax Benefits and Electoral Connection in Brazil: the granting of benefits related to PIS, COFINS, and CSLL.*](http://www.teses.usp.br/teses/disponiveis/8/8131/tde-09042012-125602/pt-br.php) University of São Paulo.
+
+## 
