@@ -6,7 +6,6 @@ website:
   title: "Davi Moreira"
   navbar:
     left:
-      - href: index.qmd
       - href: research.qmd
       - href: books.qmd
       - href: awards.qmd
