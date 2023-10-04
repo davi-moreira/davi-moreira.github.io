@@ -21,6 +21,8 @@ about:
 
 <!--- https://ucsb-meds.github.io/creating-quarto-websites/#publish-your-site-with-github-pages --->
 
+![](casa_condeuba.jpeg){fig-align="center"}
+
 Welcome!
 
 I am a Visiting Assistant Professor at the [Quantitative Theory and Methods Department at Emory University](https://quantitative.emory.edu/index.html). Previously, I was a Visiting Assistant Professor at the [School of Global Policy and Strategy at UC San Diego,](https://gps.ucsd.edu/) an Assistant Professor in the [Political Science Department at the Federal University of Pernambuco (UFPE), Brazil](https://www.ufpe.br/dcp), and the Principal Investigator of the [Computational and Experimental Political Science Lab (\@cpcex_lab)](https://cpcex-lab.rbind.io/en/). In 2017, I was awarded the Best Brazilian Ph.D. Dissertation Prize in Political Science and International Relations.
