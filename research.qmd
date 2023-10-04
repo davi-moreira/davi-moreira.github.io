@@ -6,35 +6,52 @@ title: "Research"
 
 [![](txt4cs.webp){fig-align="center" width="252"}](https://bookdown.org/davi_moreira/txt4cs/)
 
-[Text as Data for Social Scientists (pt-br)](https://bookdown.org/davi_moreira/txt4cs/).
+\<p style="text-align: center;"\>[Text as Data for Social Scientists (pt-br)](https://bookdown.org/davi_moreira/txt4cs/).\</p\>
 
 ## **Publications** 
 
-Guimarães, F. Moreira, D. Silva, I Mello, A. (2023). [*Conspiracy Theories and Foreign Policy Narratives: Globalism in Jair Bolsonaro's foreign policy*](https://journals.sagepub.com/doi/full/10.1177/0094582X221147504). Latin Amercan Perspectives.
+**2023**
 
-Moreira, D., Pires, A., Medeiros, M. (2022) [Do 'texto como texto' ao 'texto como dado': o potencial das pesquisas em Relações Internacionais](https://www.scielo.br/j/rsocp/a/W34dV4fXQfthZmSmQLmkXzs/abstract/?lang=pt). Revista de Sociologia e Política.
+-   Guimarães, F. Moreira, D. Silva, I Mello, A. (2023). [*Conspiracy Theories and Foreign Policy Narratives: Globalism in Jair Bolsonaro's foreign policy*](https://journals.sagepub.com/doi/full/10.1177/0094582X221147504). Latin Amercan Perspectives.
 
-Ricci, P. Izumi, M. Moreira, D. (2021). [*O POPULISMO NO BRASIL (1985-2019) Um velho conceito a partir de uma nova abordagem.*](https://doi.org/10.1590/3610707/2021) Revista Brasileira de Ciências Sociais. 36.
+**2022**
 
-Michener, G. Coelho, J. Moreira, D. (2021). [*Are governments complying with transparency? Findings from 15 years of evaluation*](https://www.sciencedirect.com/science/article/pii/S0740624X21000010?dgcid=coauthor). Government Information Quarterly: 101565.
+-   Moreira, D., Pires, A., Medeiros, M. (2022) [Do 'texto como texto' ao 'texto como dado': o potencial das pesquisas em Relações Internacionais](https://www.scielo.br/j/rsocp/a/W34dV4fXQfthZmSmQLmkXzs/abstract/?lang=pt). Revista de Sociologia e Política.
 
-Moreira, D. (2020). *Não tomarás seu nome em vão. O Programa Bolsa Família em discursos*\
-*do PT e do PSDB*. In: A Nova Ciência da Política. Arantes, R. e Petroni, L. (orgs.). FFLCH/USP. São Paulo. 2020.
+**2021**
 
-Moreira, D. (2020). [*Brazilian deputies floor speeches: expressed agendas*](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0011-52582020000100202&lng=pt&nrm=iso&tlng=pt). DADOS, Rio de Janeiro, RJ.
+-   Ricci, P. Izumi, M. Moreira, D. (2021). [*O POPULISMO NO BRASIL (1985-2019) Um velho conceito a partir de uma nova abordagem.*](https://doi.org/10.1590/3610707/2021) Revista Brasileira de Ciências Sociais. 36.
 
-Moreira, D. (2020). [*Parliamentarians in Coalition Presidentialism: decision-making power in the tax benefits policy*](https://www.scielo.br/scielo.php?pid=S0104-44782020000200200&script=sci_arttext&tlng=pt). Revista de Sociologia e Política. UFPR, Curitiba, PR.
+-   Michener, G. Coelho, J. Moreira, D. (2021). [*Are governments complying with transparency? Findings from 15 years of evaluation*](https://www.sciencedirect.com/science/article/pii/S0740624X21000010?dgcid=coauthor). Government Information Quarterly: 101565.
 
-Moreira, D. (2019). [*Do brazilian deputies talk a lot? Floor speeches frequency and their patterns*](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-62762019000300597). Opinião Pública, Campinas, SP.
+**2020**
 
-Izumi, M. Moreira, D. (2018). [*The text as data: challenges and opportunities for social sciences*](https://www.anpocs.com/index.php/bib-pt/bib-86/11215-o-texto-como-dado-desafios-e-oportunidades-para-as-ciencias-sociais/file). BIB, São Paulo, n. 86, 2/2018. pp. 138-174
+-   Moreira, D. (2020). *Não tomarás seu nome em vão. O Programa Bolsa Família em discursos do PT e do PSDB*. In: A Nova Ciência da Política. Arantes, R. e Petroni, L. (orgs.). FFLCH/USP. São Paulo. 2020.
 
-Moreira, D. C. (2016). Doctoral Thesis. [*Brazilian parliamentary communication: floor speeches frequency and expressed agendas*](http://www.teses.usp.br/teses/disponiveis/8/8131/tde-04112016-124733/pt-br.php). University of São Paulo.
+-   Moreira, D. (2020). [*Brazilian deputies floor speeches: expressed agendas*](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0011-52582020000100202&lng=pt&nrm=iso&tlng=pt). DADOS, Rio de Janeiro, RJ.
 
-Magalhães, Rafael; Ferrari, Diogo; Galdino, Manoel; Moreira, D. C. (2013). [*Perspectives on Political Methodology: Interview with Simon Jackman*](http://www.fflch.usp.br/dcp/leviathan/index.php/leviathan/article/view/210). Revista Leviathan.
+-   Moreira, D. (2020). [*Parliamentarians in Coalition Presidentialism: decision-making power in the tax benefits policy*](https://www.scielo.br/scielo.php?pid=S0104-44782020000200200&script=sci_arttext&tlng=pt). Revista de Sociologia e Política. UFPR, Curitiba, PR.**2**
 
-Mancuso, Wagner Pralon; Moreira, D. C. (2013). [Benefícios tributários valem a pena?: um estudo de formulação de políticas públicas.](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-44782013000100009&lng=pt&nrm=iso&tlng=en) Revista de Sociologia e Política (UFPR. Impresso), v. 21, p. 107-121.
+**2019**
 
-Moreira, D. C. (2011). Master Dissertation. [*Federal Tax Benefits and Electoral Connection in Brazil: the granting of benefits related to PIS, COFINS, and CSLL.*](http://www.teses.usp.br/teses/disponiveis/8/8131/tde-09042012-125602/pt-br.php) University of São Paulo.
+-   Moreira, D. (2019). [*Do brazilian deputies talk a lot? Floor speeches frequency and their patterns*](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-62762019000300597). Opinião Pública, Campinas, SP.
+
+**2018**
+
+-   Izumi, M. Moreira, D. (2018). [*The text as data: challenges and opportunities for social sciences*](https://www.anpocs.com/index.php/bib-pt/bib-86/11215-o-texto-como-dado-desafios-e-oportunidades-para-as-ciencias-sociais/file). BIB, São Paulo, n. 86, 2/2018. pp. 138-174
+
+**2016**
+
+-   Moreira, D. C. (2016). Doctoral Thesis. [*Brazilian parliamentary communication: floor speeches frequency and expressed agendas*](http://www.teses.usp.br/teses/disponiveis/8/8131/tde-04112016-124733/pt-br.php). University of São Paulo.
+
+**2013**
+
+-   Magalhães, Rafael; Ferrari, Diogo; Galdino, Manoel; Moreira, D. C. (2013). [*Perspectives on Political Methodology: Interview with Simon Jackman*](http://www.fflch.usp.br/dcp/leviathan/index.php/leviathan/article/view/210). Revista Leviathan.
+
+-   Mancuso, Wagner Pralon; Moreira, D. C. (2013). [Benefícios tributários valem a pena?: um estudo de formulação de políticas públicas.](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-44782013000100009&lng=pt&nrm=iso&tlng=en) Revista de Sociologia e Política (UFPR. Impresso), v. 21, p. 107-121.
+
+**2011**
+
+-   Moreira, D. C. (2011). Master Dissertation. [*Federal Tax Benefits and Electoral Connection in Brazil: the granting of benefits related to PIS, COFINS, and CSLL.*](http://www.teses.usp.br/teses/disponiveis/8/8131/tde-09042012-125602/pt-br.php) University of São Paulo.
 
 ## 
