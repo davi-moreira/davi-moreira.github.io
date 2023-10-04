@@ -6,16 +6,16 @@ title: "Applied Projects"
 
 [**Verbo ao Voto**](https://cpcex-lab.github.io/verbo_voto_dash/#sobre)
 
-It is a product of the UFPE\'s [Computational and Experimental Political Science Lab (\@cpcex_lab) ](https://cpcex-lab.rbind.io/)developed to portray the 2022 Brazilian Presidential election. The project\'s objective is to provide journalists, marketers, political analysts, political advisors, the candidates themselves, and Brazilian society with summary and updated information on the electoral dispute. The project was developed in collaboration with [Mônica Rocabado](https://cpcex-lab.rbind.io/author/monica-rocabado/) and [Antonio Pires](https://cpcex-lab.rbind.io/author/antonio-pires/).
+It is a product of the UFPE's [Computational and Experimental Political Science Lab (\@cpcex_lab)](https://cpcex-lab.rbind.io/)developed to portray the 2022 Brazilian Presidential election. The project's objective is to provide journalists, marketers, political analysts, political advisors, the candidates themselves, and Brazilian society with summary and updated information on the electoral dispute. The project was developed in collaboration with [Mônica Rocabado](https://cpcex-lab.rbind.io/author/monica-rocabado/) and [Antonio Pires](https://cpcex-lab.rbind.io/author/antonio-pires/).
 
 [![](https://davicmoreira.files.wordpress.com/2022/11/logo-reelegis.jpeg){alt="" width="246"}](https://reelegis.netlify.app/)
 
 [**reeLegis**](https://reelegis.netlify.app/)
 
-reeLegis is a product of the UFPE\'s [Computational and Experimental Political Science Lab (\@cpcex_lab)](https://cpcex-lab.rbind.io/). The platform allows comparing the performance of parliamentarians seeking reelection. Using the [Structural Topic Model (STM)](http://www.structuraltopicmodel.com/) algorithm, we analyzed more than 30k proposals presented by all federal deputies who acted between 2019 and 2022. The results show topics prioritized by reelection candidates during their mandates. It was developed in collaboration with [Renata Cavalcanti](https://cpcex-lab.rbind.io/author/renata-cavalcanti/) and [Bhreno Vieira](https://cpcex-lab.rbind.io/author/bhreno-vieira/).
+reeLegis is a product of the UFPE's [Computational and Experimental Political Science Lab (\@cpcex_lab)](https://cpcex-lab.rbind.io/). The platform allows comparing the performance of parliamentarians seeking reelection. Using the [Structural Topic Model (STM)](http://www.structuraltopicmodel.com/) algorithm, we analyzed more than 30k proposals presented by all federal deputies who acted between 2019 and 2022. The results show topics prioritized by reelection candidates during their mandates. It was developed in collaboration with [Renata Cavalcanti](https://cpcex-lab.rbind.io/author/renata-cavalcanti/) and [Bhreno Vieira](https://cpcex-lab.rbind.io/author/bhreno-vieira/).
 
 [![](https://davicmoreira.files.wordpress.com/2014/01/retorica_saude.png){alt="" width="241"}](https://luiscarli.com/2013/11/01/retorica/)
 
 [**Retórica Parlamentar**](https://luiscarli.com/2013/11/01/retorica/)
 
-Web application developed during the first Hackathon of the Brazilian Chamber of Deputies in 2013. I was responsible to develop a web crawler to obtain all Brazilian deputies\' speeches and to analyze more than 14.000 speeches using advanced statistical techniques. The result shows 70 topics emphasized by over 400 parliamentarians between February 2011 and October 2013.
+Web application developed during the first Hackathon of the Brazilian Chamber of Deputies in 2013. I was responsible to develop a web crawler to obtain all Brazilian deputies' speeches and to analyze more than 14.000 speeches using advanced statistical techniques. The result shows 70 topics emphasized by over 400 parliamentarians between February 2011 and October 2013.
