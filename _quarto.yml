@@ -8,12 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - research.qmd
-      - books.qmd
-      - awards.qmd
-      - applied_projects.qmd
-      - interviews.qmd
-      - blog.qmd
+      - href: research.qmd
+      - href: books.qmd
+      - href: awards.qmd
+      - href: applied_projects.qmd
+      - href: interviews.qmd
+      - href: blog.qmd
 
 format:
   html:
