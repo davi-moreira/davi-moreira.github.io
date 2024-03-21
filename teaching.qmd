@@ -1,0 +1,41 @@
+---
+title: "Teaching"
+---
+
+My teaching expertise spans from math, statistics, programming languages, data science, machine learning, research design, and causal inference to political science courses tailored for both undergraduate and graduate students. Below you find the list of courses I taught - click the link and check the course material:
+
+| Year.Semester.Quarter | Course title | Level   | Hours | Institution | Material |
+|------------------------------------|------------------------------------------------------------|---------------|-------|-----------------|-----------------|
+| 2024.Summer     | Data Science Computing                                     | Undergraduate | 60h   | Emory University| website |
+| 2024.Summer     | Introduction to Statistical Inference                      | Undergraduate | 60h   | Emory University| syllabus |
+| 2024.1          | Data Science Computing                                     | Undergraduate | 60h   | Emory University| website |
+| 2024.1          | Probability and Statistics                                 | Undergraduate | 60h   | Emory University| syllabus |
+| 2023.2          | Introduction to Statistical Inference                      | Undergraduate | 60h   | Emory University| syllabus |
+| 2023.Summer                     | Text as Data                                               | Graduate      | 15h   | UFMG            |  syllabus |
+| 2023.1.Spring   | Text as Data                                               | Undergraduate | 30h   | UCSD            |  [syllabus](https://www.dropbox.com/scl/fi/0o8hhrwphcqx3yveql1mx/Poli176_DSC161_Syllabus_20230527.pdf?rlkey=65hp5gosqeub1m56ihrpslrqs&dl=0){target="_blank"}, [podcast videos](https://podcast.ucsd.edu/watch/sp23/poli176_a00/1){target="_blank"} |
+| 2023.1.Spring                     | Democratic Backsliding in Latin America                    | Master        | 30h   | UCSD            |
+| 2023.1.Winter                     | Economic Policy in Latin America                           | Master        | 30h   | UCSD            |
+| 2022.2                             | TXT4PS - Text as Data for Political Science                | Graduate      | 60h   | UFPE            |
+| 2022.1                             | PY4PS - Introduction to programming with Python for Political Science | Undergraduate | 60h   | UFPE            |
+| 2022.1                             | DS4PS - Data Science for Political Science                 | Graduate      | 60h   | UFPE            |
+| 2022.1                             | CI4PS - Causal Inference for Political Science - UFPE      | Undergraduate | 90h   | UFPE            |
+| 2021.2                             | DS4PS - Data Science for Political Science                 | Undergraduate | 90h   | UFPE            |
+| 2021.2                             | Causal Inference                                           | Graduate      | 60h   | UFPE            |
+| 2021.2                             | Research Design 02                                         | Undergraduate | 120h  | UFPE            |
+| 2021.1                             | DS4PS - Data Science for Political Science                 | Undergraduate | 90h   | UFPE            |
+| 2021.2                             | Image and Natural Language Processing (NLP)                | Graduate      | 60h   | FGV             |
+| 2021.1                             | DS4LAW-03 - Data Science for Law 03: text as data          | Graduate      | 30h   | FGV             |
+| 2021.1                             | DS4LAW-02 - Data Science for Law 02: data analysis and visualization advanced principles | Graduate | 30h   | FGV             |
+| 2021.1                             | DS4LAW-01 - Data Science for Law 01: data analysis and visualization basic principles | Graduate | 30h   | FGV             |
+| 2020.2                             | Data Science: math foundations                             | Undergraduate | 90h   | FGV             |
+| 2020.2                             | Data Science Project Management and Development            | Undergraduate | 60h   | FGV             |
+| 2020.2                             | DS4IR - Data Science for International Relations: data analysis and visualization | Undergraduate | 60h   | FGV             |
+| 2019.2                             | Causal Inference                                           | Graduate      | 60h   | UFPE            |
+| 2023.Summer                             | TXT4SC - Text as Data for Social Sciences                  | Graduate      | 30h   | UFMG            |
+| 2019.2                             | Research Design 02                                         | Undergraduate | 120h  | UFPE            |
+| 2019.1                             | Research Design 01                                         | Undergraduate | 60h   | UFPE            |
+| 2019.1                             | Data Analysis                                              | Graduate      | 60h   | UFPE            |
+| 2018.2                             | Data Analysis                                              | Graduate      | 60h   | UFPE            |
+| 2018.2                             | Introduction to R programming language                     | Graduate      | 20h   | UFPE            |
+
+## 

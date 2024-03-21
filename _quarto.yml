@@ -7,6 +7,7 @@ website:
   navbar:
     left:
       - href: research.qmd
+      - href: teaching.qmd
       - href: awards.qmd
       - href: applied_projects.qmd
       - href: interviews.qmd

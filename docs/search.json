@@ -68,5 +68,19 @@
     "title": "Research",
     "section": "",
     "text": "Text as Data for Social Scientists (pt-br)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "My teaching expertise spans from math, statistics, programming languages, data science, machine learning, research design, and causal inference to political science courses tailored for both undergraduate and graduate students. Below you find the list of courses I taught - click the link and check the course material:"
+  },
+  {
+    "objectID": "teaching.html#section",
+    "href": "teaching.html#section",
+    "title": "Teaching",
+    "section": "",
+    "text": "Year.Semester.or.Quarter\nCourse title\nLevel\nHours\nInstitution\n\n\n\n\n2024.Summer\nData Science Computing\nUndergraduate\n60h\nEmory University\n\n\n2024.Summer\nIntroduction to Statistical Inference\nUndergraduate\n60h\nEmory University\n\n\n2024.1\nData Science Computing\nUndergraduate\n60h\nEmory University\n\n\n2024.1\nProbability and Statistics\nUndergraduate\n60h\nEmory University\n\n\n2023.2\nIntroduction to Statistical Inference\nUndergraduate\n60h\nEmory University\n\n\nWinter Course\nText as Data\nGraduate\n15h\nUFMG\n\n\n2023.1.Spring\nText as Data\nUndergraduate\n30h\nUCSD\n\n\n2023.1.Spring\nDemocratic Backsliding in Latin America\nMaster\n30h\nUCSD\n\n\n2023.1.Winter\nEconomic Policy in Latin America\nMaster\n30h\nUCSD\n\n\n2022.2\nTXT4PS - Text as Data for Political Science\nGraduate\n60h\nUFPE\n\n\n2022.1\nPY4PS - Introduction to programming with Python for Political Science\nUndergraduate\n60h\nUFPE\n\n\n2022.1\nDS4PS - Data Science for Political Science\nGraduate\n60h\nUFPE\n\n\n2022.1\nCI4PS - Causal Inference for Political Science - UFPE\nUndergraduate\n90h\nUFPE\n\n\n2021.2\nDS4PS - Data Science for Political Science\nUndergraduate\n90h\nUFPE\n\n\n2021.2\nCausal Inference\nGraduate\n60h\nUFPE\n\n\n2021.2\nResearch Design 02\nUndergraduate\n120h\nUFPE\n\n\n2021.1\nDS4PS - Data Science for Political Science\nUndergraduate\n90h\nUFPE\n\n\n2021.2\nImage and Natural Language Processing (NLP)\nGraduate\n60h\nFGV\n\n\n2021.1\nDS4LAW-03 - Data Science for Law 03: text as data\nGraduate\n30h\nFGV\n\n\n2021.1\nDS4LAW-02 - Data Science for Law 02: data analysis and visualization advanced principles\nGraduate\n30h\nFGV\n\n\n2021.1\nDS4LAW-01 - Data Science for Law 01: data analysis and visualization basic principles\nGraduate\n30h\nFGV\n\n\n2020.2\nData Science: math foundations\nUndergraduate\n90h\nFGV\n\n\n2020.2\nData Science Project Management and Development\nUndergraduate\n60h\nFGV\n\n\n2020.2\nDS4IR - Data Science for International Relations: data analysis and visualization\nUndergraduate\n60h\nFGV\n\n\n2019.2\nCausal Inference\nGraduate\n60h\nUFPE\n\n\n2019.2\nTXT4SC - Text as Data for Social Sciences\nGraduate\n30h\nUFMG\n\n\n2019.2\nResearch Design 02\nUndergraduate\n120h\nUFPE\n\n\n2019.1\nResearch Design 01\nUndergraduate\n60h\nUFPE\n\n\n2019.1\nData Analysis\nGraduate\n60h\nUFPE\n\n\n2018.2\nData Analysis\nGraduate\n60h\nUFPE\n\n\n2018.2\nIntroduction to R programming language\nGraduate\n20h\nUFPE"
   }
 ]
