@@ -6,7 +6,7 @@ My teaching expertise spans from math, statistics, programming languages, data s
 
 | Year.Semester.Quarter | Course title | Level   | Hours | Institution | Material |
 |------------------------------------|------------------------------------------------------------|---------------|-------|-----------------|-----------------|
-| 2024.Summer     | Data Science Computing                                     | Undergraduate | 60h   | Emory University| [website](https://davi-moreira.github.io/2024Summer_dsc_emory_qtm_350/){target="_blank"} |
+| 2024.Summer     | Data Science Computing                                     | Undergraduate | 60h   | Emory University| [website](https://davi-moreira.github.io/2024Summer1_dsc_emory_qtm_350/){target="_blank"} |
 | 2024.Summer     | Introduction to Statistical Inference                      | Undergraduate | 60h   | Emory University| syllabus |
 | 2024.1          | Data Science Computing                                     | Undergraduate | 60h   | Emory University| [website](https://davi-moreira.github.io/2024S_dsc_emory_qtm_350){target="_blank"} |
 | 2024.1          | Probability and Statistics                                 | Undergraduate | 60h   | Emory University| [syllabus](https://www.dropbox.com/scl/fi/trld01jbpu0x0ou15dgat/24S_QTM210_syllabus_short_20240214.pdf?rlkey=xumo8jh8k4mqy14edq7tfoiu8&dl=0){target="_blank"} |
