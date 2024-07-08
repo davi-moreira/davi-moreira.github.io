@@ -7,7 +7,7 @@ My teaching expertise spans from math, statistics, programming languages, data s
 | Year.Semester.Quarter | Course title | Level   | Hours | Institution | Material |
 |------------------------------------|------------------------------------------------------------|---------------|-------|-----------------|-----------------|
 | 2024.Summer     | Data Science Computing                                     | Undergraduate | 60h   | Emory University| [website](https://davi-moreira.github.io/2024Summer1_dsc_emory_qtm_350/){target="_blank"} |
-| 2024.Summer     | Introduction to Statistical Inference                      | Undergraduate | 60h   | Emory University| syllabus |
+| 2024.Summer     | Introduction to Statistical Inference                      | Undergraduate | 60h   | Emory University| [syllabus](https://www.dropbox.com/scl/fi/aic1z0sw7a3g7rg5p40wa/24S_QTM100_syllabus_20240504.pdf?rlkey=e0f3qco9ku63p7bqxftk9mnd9&st=qm09ek0v&dl=0){target="_blank"} |
 | 2024.1          | Data Science Computing                                     | Undergraduate | 60h   | Emory University| [website](https://davi-moreira.github.io/2024S_dsc_emory_qtm_350){target="_blank"} |
 | 2024.1          | Probability and Statistics                                 | Undergraduate | 60h   | Emory University| [syllabus](https://www.dropbox.com/scl/fi/trld01jbpu0x0ou15dgat/24S_QTM210_syllabus_short_20240214.pdf?rlkey=xumo8jh8k4mqy14edq7tfoiu8&dl=0){target="_blank"} |
 | 2023.2          | Introduction to Statistical Inference                      | Undergraduate | 60h   | Emory University| [syllabus](https://www.dropbox.com/scl/fi/la21fyh6rkas3lxa4tc4q/23F_QTM100_05_syllabus.pdf?rlkey=kd72nf8dtupr0wud4il661od6&dl=0){target="_blank"} |
