@@ -16,7 +16,7 @@ about:
     - text: Google Scholar
       href: https://scholar.google.com.br/citations?hl=pt-BR&user=dS9bbdMAAAAJ
     - text: Email
-      href: mailto:davi.moreira@emory.edu
+      href: mailto:dmoreira@purdue.edu
 ---
 
 <!--- https://ucsb-meds.github.io/creating-quarto-websites/#publish-your-site-with-github-pages --->
