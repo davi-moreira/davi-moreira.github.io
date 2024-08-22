@@ -6,8 +6,8 @@ My teaching expertise spans from math, statistics, programming languages, data s
 
 | Year.Semester.Quarter | Course title | Level   | Institution | Material |
 |-----------------------|--------------|---------|-------------|----------|
-| 2024.2     | Business Statistics | Undergraduate | Purdue University| website |
-| 2024.2     | Data Mining Lab | Undergraduate | Purdue University| website |
+| 2024.2     | Business Statistics | Undergraduate | Purdue University| [website](https://davi-moreira.github.io/2024F_business_statistics_purdue_MGMT305/){target="_blank"} |
+| 2024.2     | Data Mining Lab | Undergraduate | Purdue University| [website](https://davi-moreira.github.io/2024F_data_mining_MGMT173/){target="_blank"} |
 | 2024.Summer     | Data Science Computing                                     | Undergraduate | Emory University| [website](https://davi-moreira.github.io/2024Summer1_dsc_emory_qtm_350/){target="_blank"} |
 | 2024.Summer     | Introduction to Statistical Inference                      | Undergraduate | Emory University| [syllabus](https://www.dropbox.com/scl/fi/aic1z0sw7a3g7rg5p40wa/24S_QTM100_syllabus_20240504.pdf?rlkey=e0f3qco9ku63p7bqxftk9mnd9&st=qm09ek0v&dl=0){target="_blank"} |
 | 2024.1          | Data Science Computing                                     | Undergraduate | Emory University| [website](https://davi-moreira.github.io/2024S_dsc_emory_qtm_350){target="_blank"} |
