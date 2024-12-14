@@ -6,6 +6,9 @@ My teaching expertise spans from math, statistics, programming languages, data s
 
 | Year.Semester.Quarter | Course title | Level   | Institution | Material |
 |-----------------------|--------------|---------|-------------|----------|
+| 2025.1     | Predictive Analytics | Undergraduate | Purdue University| [website](https://davi-moreira.github.io/2025S_predictive_analytics_purdue_MGMT474/){target="_blank"} |
+| 2025.1     | Business Statistics | Undergraduate | Purdue University| [website](https://davi-moreira.github.io/2025S_business_statistics_purdue_MGMT305/){target="_blank"} |
+| 2025.1     | Data Mining Lab | Undergraduate | Purdue University| [website](https://davi-moreira.github.io/2025S_data_mining_MGMT173/){target="_blank"} |
 | 2024.2     | Business Statistics | Undergraduate | Purdue University| [website](https://davi-moreira.github.io/2024F_business_statistics_purdue_MGMT305/){target="_blank"} |
 | 2024.2     | Data Mining Lab | Undergraduate | Purdue University| [website](https://davi-moreira.github.io/2024F_data_mining_MGMT173/){target="_blank"} |
 | 2024.Summer     | Data Science Computing                                     | Undergraduate | Emory University| [website](https://davi-moreira.github.io/2024Summer1_dsc_emory_qtm_350/){target="_blank"} |
