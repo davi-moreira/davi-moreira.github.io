@@ -4,10 +4,10 @@ title: "Research"
 
 ## **Books**
 
-[![](txt4cs.webp){fig-align="center" width="195"}](https://bookdown.org/davi_moreira/txt4cs/)
+[![](txt4cs.webp){fig-align="center" width="195"}](https://bookdown.org/davi_moreira/txt4cs/){target="_blank"}
 
 ::: center-text
-[Text as Data for Social Scientists (pt-br)](https://bookdown.org/davi_moreira/txt4cs/)
+[Text as Data for Social Scientists (pt-br)](https://bookdown.org/davi_moreira/txt4cs/){target="_blank"}
 :::
 
 ## **Publications**

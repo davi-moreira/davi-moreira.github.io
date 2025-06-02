@@ -2,6 +2,14 @@
 title: "Blog"
 ---
 
+# **Turning Data Into Impact**
+
+I'm pleased to share an inspiring story about the transformative impact of experiential learning projects I mentored at Purdue University's Daniels School of Business this Spring Semester in 2025. This feature highlights how my students have successfully leveraged their data science and analytical skills to support nonprofit organizations, such as Indy Reads and Girl Scouts of Central Indiana. Through these collaborative projects, our students not only gained valuable real-world experience but also made meaningful contributions by improving operational efficiency and decision-making capabilities for these community-focused organizations. You can read more about this enriching collaboration and its positive outcomes [here](https://business.purdue.edu/news/features/2025/turning-data-into-impact.php){target="_blank"}.
+
+# **Transforming Nonprofits, Empowering Students**
+
+This piece shares a feature from Purdue University's Daniels School of Business that highlights the impactful collaboration between our students and nonprofit organizations through the Krenicki Center for Business Analytics and Machine Learning's Community Impact Initiative during the 2025 Spring Semester. This initiative exemplifies how experiential learning can simultaneously empower students and strengthen community organizations. In this article, you'll find insights into how student teams mentored by me applied data analytics to address real-world challenges faced by nonprofits, enhancing their operational efficiency and strategic decision-making. As a faculty mentor, I had the privilege of guiding these students as they developed practical solutions that not only enriched their educational experience but also delivered tangible benefits to our community partners. You can read more about this collaborative effort [here](https://business.purdue.edu/news/features/2025/transforming-nonprofits-empowering-students.php){target="_blank"}.
+
 # **Ciências Sociais Computacionais: texto como dado**
 
 Na última semana (21 de junho de 2022) tive a oportunidade de apresentar seminário sobre Ciências Sociais Computacionais e tratar especialmente da abordagem do Texto como Dado para o PPGCP/UFPA. A apresentação está publicada no YouTube: <https://www.youtube.com/watch?v=2gfXaBu6LHE>
