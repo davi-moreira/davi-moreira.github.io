@@ -27,6 +27,6 @@ about:
 
 I am a Clinical Assistant Professor of Management in the [Quantitative Methods Area at the Daniels School of Business, Purdue University](https://business.purdue.edu/academics/quantitative-methods/). Before this, I held several academic positions, including Visiting Assistant Professor positions at the [Quantitative Theory and Methods Department at Emory University](https://quantitative.emory.edu/index.html) and the [School of Global Policy and Strategy at UC San Diego](https://gps.ucsd.edu/). I also served as an Assistant Professor in the [Political Science Department at the Federal University of Pernambuco (UFPE) in Brazil](https://www.ufpe.br/dcp). In 2017, I was honored with the Best Brazilian Ph.D. Dissertation Prize in Political Science and International Relations.
 
-My research and teaching interests focus on Data Science, Text as Data, NLP, and Artificial Intelligence.
+My research and teaching interests focus on applied Data Science, Text as Data, NLP, and Artificial Intelligence.
 
 
