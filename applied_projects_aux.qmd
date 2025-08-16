@@ -17,7 +17,7 @@ title: "Experiential Learning"
 <center>
 [![](figs/2025Summer_girls_scouts_video.png){width="246"}](https://www.youtube.com/watch?v=gwHRCefL-qc){target="_blank"}
 
-*[Video] Sales Forecasting Automation: the case of Girl Scouts of Central Indiana by Parth Kapila and collaboration of Ramya Chowdary Polineni*
+*[Video] Sales Forecasting Automation: the case of Girl Scouts of Central Indiana by Parth Kapila and collaboration with Ramya Chowdary Polineni*
 </center>
 
 
@@ -32,7 +32,7 @@ title: "Experiential Learning"
 <center>
 [![](figs/2025S_second_undergrad_talk.png){width="246"}]
 
-*Smart Cookies: A Predictive Approach to Girl Scout Cookie Sales by Gabriel Morales Nunez; Rishita Korapati*
+*Smart Cookies: A Predictive Approach to Girl Scout Cookie Sales by Gabriel Morales Nunez, Rishita Korapati, collaboration with Ramya Chowdary Polineni*
 </center>
 
 
