@@ -1,41 +1,201 @@
 ---
-title: "Applied Projects"
+title: "Experiential Learning"
 ---
 
-# 2015
+> **_Hands‑on, data‑driven, student‑centered._**  
+> Below you will find the **projects I have mentored**—whether inside my courses, through the [**Krenicki Center for Business Analytics & Machine Learning at Purdue University**](https://business.purdue.edu/centers/krenicki-center/home.php){target="_blank"}, or at academic conferences—together with any awards the work has received. 
 
-## Conferencia
 
-<center>
-[![](https://davicmoreira.files.wordpress.com/2022/11/verbo_voto.gif){alt="" width="204"}](https://cpcex-lab.github.io/verbo_voto_dash/#sobre)
-</center>
+# 2025
 
-# 2014
+---
 
-## Test
+## 2025 Summer Undergraduate Research Symposium
 
-::: center-text
-[**Verbo ao Voto**](https://cpcex-lab.github.io/verbo_voto_dash/#sobre)
-::: 
-
-It is a product of the UFPE's [Computational and Experimental Political Science Lab (\@cpcex_lab)](https://cpcex-lab.rbind.io/)developed to portray the 2022 Brazilian Presidential election. The project's objective is to provide journalists, marketers, political analysts, political advisors, the candidates themselves, and Brazilian society with summary and updated information on the electoral dispute. The project was developed in collaboration with [Mônica Rocabado](https://cpcex-lab.rbind.io/author/monica-rocabado/) and [Antonio Pires](https://cpcex-lab.rbind.io/author/antonio-pires/).
+<br>
 
 <center>
-[![](https://davicmoreira.files.wordpress.com/2022/11/logo-reelegis.jpeg){alt="" width="246"}](https://reelegis.netlify.app/)
+[![](figs/2025Summer_girls_scouts_video.png){width="246"}](https://www.youtube.com/watch?v=gwHRCefL-qc){target="_blank"}
+
+*[Video] Sales Forecasting Automation: the case of Girl Scouts of Central Indiana by Parth Kapila and collaboration with Ramya Chowdary Polineni*
 </center>
 
-::: center-text
-[**reeLegis**](https://reelegis.netlify.app/)
-:::
 
-reeLegis is a product of the UFPE's [Computational and Experimental Political Science Lab (\@cpcex_lab)](https://cpcex-lab.rbind.io/). The platform allows comparing the performance of parliamentarians seeking reelection. Using the [Structural Topic Model (STM)](http://www.structuraltopicmodel.com/) algorithm, we analyzed more than 30k proposals presented by all federal deputies who acted between 2019 and 2022. The results show topics prioritized by reelection candidates during their mandates. It was developed in collaboration with [Renata Cavalcanti](https://cpcex-lab.rbind.io/author/renata-cavalcanti/) and [Bhreno Vieira](https://cpcex-lab.rbind.io/author/bhreno-vieira/).
+## 2025 Spring Undergraduate Research Conference  
+
+*I mentored 28 student projects that were presented either as Posters or Research Talks. Below, you will find the [projects that were awarded in this conference](https://www.purdue.edu/undergrad-research/conferences/spring/archive/past-winners.php){target="_blank"}, followed by a complete list of all the projects. You may access the abstracts for each project [here](https://www.purdue.edu/undergrad-research/conferences/spring/archive/documents/2025AbstractBooklet.pdf){target="_blank"}.*
+
+### Second Place Research Talk Award 2025 – Daniels School of Business
+
+<br>
 
 <center>
-[![](https://davicmoreira.files.wordpress.com/2014/01/retorica_saude.png){alt="" width="241"}](https://luiscarli.com/2013/11/01/retorica/)
+[![](figs/2025S_second_undergrad_talk.png){width="246"}]
+
+*Smart Cookies: A Predictive Approach to Girl Scout Cookie Sales by Gabriel Morales Nunez, Rishita Korapati, collaboration with Ramya Chowdary Polineni*
 </center>
 
-::: center-text
-[**Retórica Parlamentar**](https://luiscarli.com/2013/11/01/retorica/)
-::: 
 
-Web application developed during the first Hackathon of the Brazilian Chamber of Deputies in 2013. I was responsible to develop a web crawler to obtain all Brazilian deputies' speeches and to analyze more than 14.000 speeches using advanced statistical techniques. The result shows 70 topics emphasized by over 400 parliamentarians between February 2011 and October 2013.
+### First Place Poster Award 2025 - Daniels School of Business
+
+
+<br>
+
+
+<center>
+[![](figs/2025S_first_place_poster.jpeg){width="246"}]
+
+*Predicting Fan Engagement: A Similarity Test Enhancing Future Bracketology by Lynden Tate Oliver*
+
+</center>
+
+<br>
+
+### All Projects Presented in the Conference
+
+<div style="
+  max-height: 410px;        /* adjust visible height here      */
+  overflow: auto;           /* vertical & horizontal scrolling */
+  font-size: 0.9em;         /* smaller text                     */
+  /*border: 1px solid #ccc;    thin frame (optional)            */
+">
+
+| # | Project Title | Authors | Type |
+|---|---------------------|------|---|
+| 1 | Smart Cookies: A Predictive Approach to Girl Scout Cookie Sales | Gabriel Morales Nunez†; Rishita Korapati† | Research Talk |
+| 2 | Predicting Fan Engagement: A Similarity Test Enhancing Future Bracketology | Lynden Tate Oliver†; Aubrey Zak‡; James Graeme Tolland‡; Charles Andrew Dempewolf‡; Maanav Narasimha Kyabarsi‡ | Poster |
+| 3 | Predicting the Future of Electric Vehicles: Adoption Trends, Reliability, and Market Growth in Washington State | Maoxiong Chen†; Abhinav Bondlela†; Dane Alexander Kniola†; Theodore Dean Schmidt† | Poster |
+| 4 | Bracket Bias: Predicting NCAA March Madness Outcomes and the Influence of Fan Loyalty | Kyle Steven Emgenbroich†; Kaitlin Rose Otto†; Ishita Tripathy†; Vaibhavi Chamiraju† | Poster |
+| 5 | Forecasting Nike’s 2025 Earnings: A Data‑Driven Approach | Aditya Ghorpade†; Shreem Bhavesh Amin†; Ronak Bhagia†; Gabriel E. Calleja Sanchez†; Jayanth Madhava Kurup† | Poster |
+| 6 | Predicting GDP Growth: Using Data‑Driven Insights to Uncover Economic Trends | Anisa Krvavac†; Adam Taesoo Bae†; Ian Spencer Lutz†; Jacob Matthew Embleton†; Alex Lukowiecki Caridi† | Poster |
+| 7 | Forecasting Monthly Bag Distribution: Improving Delivery Efficiency Through Data | Josiah John Linnemann† | Poster |
+| 8 | Analyzing Fan Predictions of Basketball Bracket Winners: Driven by Fan Brackets and Affinity of Teams | Adlyn Aliette Hernandez† | Poster |
+| 9 | Optimizing Enrollment Processes: Leveraging Automation for Operational Efficiency and Multilingual Support | Parth Kapila† | Poster |
+| 10 | Predicting Peoples’ Perfect Bracket: A Data‑Driven Approach to March Madness Forecasting | Lauren Mackenzie Knowlton† | Poster |
+| 11 | Predicting Bracket Outcomes: Using Predictive Analytics to Understand How Customer School Affinity Affects Decision‑Making Bias | William V. Mehra†; Thomas Daniel Holland†; Nathan Andrew Summers†; Ethan Arthur Haeberle†; Mahek Gupta† | Poster |
+| 12 | Predicting March Madness Bracket: The Influence of School Affinity | Viet Vu Hoang Ngo†; Rachel Kalyn Spear‡; Anishka Pateriya‡; Marcus Victor Page‡; Sana M. Khambati‡ | Poster |
+| 13 | Predicting Consumer Purchasing Trends: A Comparative Analysis of Walmart and Target Customers in West Lafayette | Alexander Chase Alfele†; Lauryn J. Crumbley†; Annika Anders Nelson†; Brendan Lawrence Ludwig† | Poster |
+| 14 | Predicting NCAA Bracket Champions with Data‑Driven Insights | Maura K. Flood†; Mackenzie Elizabeth Arnish†; Nicholas Patrick Zebell†; Haley Grace Henson†; Olivia Francis Hojnicki† | Poster |
+| 15 | Beyond the Bracket: Data‑Driven Predictions of March Madness Selection Patterns | Alyssa A. Forester†; Sophia Ling‡; Isabella Chiara Lagioia‡; Zainab Waheed‡; Aadi Agrawal‡ | Poster |
+| 16 | Predicting NCAA March Madness Outcomes: Assessing School Affinity and Bracket Forecasting Accuracy | Aryaa Madan†; Rayan Siddiqi†; Pahal Vishalkumar Kapatel†; Jacob Michael Zawacki† | Poster |
+| 17 | Predicting March Madness Bracket Accuracy: The Role of School Affinity in Final Round Forecasting | Avi Manik†; Ark Kedia†; Somansh Hamen Shah†; Anurag Koripalli‡; Brady Ivan Yoder‡ | Poster |
+| 18 | Predicting Electric Vehicle Sales: A Model‑Based Approach to Forecast Purchase Trends | Ricardo Andres Pena Rojas†; Brandon James Rodarmel†; Colin Lucas Wellington†; Alec Michael Walter‡ | Poster |
+| 19 | Clicks to Conversions: Leveraging Social‑Media Engagement for Teenage Purchasing Behavior | Pranshu Aryal†; Ria Trikha Singh†; Tishia Talia Darmawan† | Poster |
+| 20 | Predicting March Madness Fan Brackets: Leveraging Data for Sponsorship Insights | Michael Lance Whitfield†; Filippa Maria Rodriguez Pinzon†; Chalen Alexander Jack†; Varsha Raj†; Albert Joseph Burton‡ | Poster |
+| 21 | Predictive Modeling of Liver Cancer Risk | Ethan Thomas Garcia†; Jakub John Jasinski†; Cooper J. Keillor†; Shenghua Wu†; Meenakshi Radhakrishnan† | Poster |
+| 22 | Predicting March Madness Finalists: A Data‑Driven Approach to Understanding School Affinity | Drew Christophe Lawler†; Omar Haytham Al Husseini†; Kelly Ann Igo†; Benjamin James Wright‡ | Poster |
+| 23 | Predicting Customer Ratings: A Data‑Driven Approach to Optimizing EV Charging Stations | Yun Jing Lin†; Cooper Jacob Wylie†; Theodore Christian Lewis†; Harleen Kaur Sohal†; Rick Lee† | Poster |
+| 24 | Predicting NCAA Bracket Participation: Analyzing Fan Engagement Through Data | Chi Lin†; Brianna Annie Yu†; Shuhan Yang†; Kexin Han†; Joan Zhi Wei Lu† | Poster |
+| 25 | Unveiling Fan Decision‑Making: Predicting Sports Championship Outcomes Through User Prediction Strategies | Samyukta Rajaraman†; Kriti Bagchi†; Brandon Michael Dries†; Alexander Logan Kapala†; Christina Wan† | Poster |
+| 26 | Customer Return Likelihood: Based on Demographics, Service Usage, and Customer Support Interactions | Charlotte Ann Warren†; Lahari Krishna Bikkavilli†; Aksheet Sameer Paralkar†; Madeeha Sadiq† | Poster |
+| 27 | Predicting Cryptocurrency Price Movements: A Data‑Driven Analysis of Trading Volume Trends | Tyler Nathan Wichman†; Hunter McCormick Danton†; Robert Paul Bogdajewicz†; Sruthi Bhamidipati†; Shreya Maganti† | Poster |
+| 28 | Maximizing Revenue: Analyzing Hotel Rates and Booking Patterns | Xinyue Zhao†; Jackson McKinney†; Brody Lee Stevens†; Shih‑En Wang‡ | Poster |
+
+† Presenting Undergraduate Author, ‡ Contributing Undergraduate Author, * Undergraduate Acknowledgment.
+
+</div>
+
+
+## 2025 INFORMS Analytics+ Conference
+
+*I mentored 2 student projects through the Krenicki Center for Business Analytics & Machine Learning at Purdue University the that were presented as Posters in the [2025 INFORMS Analytics+ Conference](https://meetings.informs.org/wordpress/analytics/){target="_blank"}. Both teams combine undergraduate and graduate students from Purdue University. To check these projects details, check the next section.*
+
+### Smart Cookies: A Predictive Approach to Girl Scout Cookie Sales
+
+<br>
+
+<center>
+![](figs/2025S_girls_scouts_poster.png){width="604"}
+
+*Project team:  [Rishita Korapati](https://www.linkedin.com/in/rishita-korapati/){target="_blank"}, [Gabriel Morales](https://www.linkedin.com/in/gmoralescr/){target="_blank"}, and [Ramya Polineni](https://www.linkedin.com/in/rpolineni/){target="_blank"}.*
+</center>
+
+### The Enrollment Autobahn: Streamlining NGO’s enrollment process via no-code automation
+
+<br>
+
+<center>
+![](figs/2025S_indy_reads_informs_poster.png){width="604"}
+
+*Project team: [Rohan Ajay](https://www.linkedin.com/in/rohanajay/){target="_blank"}, [Parth Kapila](https://www.linkedin.com/in/parthkapila/){target="_blank"} and [Harsh Srivastava](https://www.linkedin.com/in/harshsanjivsrivastava/){target="_blank"}.*
+</center>
+
+
+
+
+## Krenicki Center for Business Analytics & Machine Learning at Purdue University
+
+### Girl Scouts Project
+
+<br>
+
+<center>
+![](figs/girl-scouts-central-indiana-logo.png){width="304"}
+
+*Project team:  [Rishita Korapati](https://www.linkedin.com/in/rishita-korapati/){target="_blank"}, [Gabriel Morales](https://www.linkedin.com/in/gmoralescr/){target="_blank"}, and [Ramya Polineni](https://www.linkedin.com/in/rpolineni/){target="_blank"}.*
+</center>
+
+<br>
+
+This initiative enhances cookie sales forecasting for the Girl Scouts of Central Indiana by advancing their predictive methods beyond the current naive approach, which relies solely on prior-year data and explains about 70% of sales variability. By utilizing advanced time series forecasting techniques applied to comprehensive data from 1,000 troops collected over five years, I mentored the student to develop a more complex predictive model and incorporate critical factors such as troop participation rates, regional market dynamics, and seasonal fluctuations. This refined approach yields superior predictive accuracy exceeding 80%, significantly improving inventory management by reducing surplus and optimizing sales opportunities. The resulting analytical framework not only improves immediate decision-making and fundraising effectiveness but also provides a foundation for future organizational advancements in forecasting and resource allocation.
+
+### Indy Reads Project
+
+<br>
+
+<center>
+![](figs/indy-reads-logo.png){width="304"}
+
+*Project team: [Rohan Ajay](https://www.linkedin.com/in/rohanajay/){target="_blank"}, [Parth Kapila](https://www.linkedin.com/in/parthkapila/){target="_blank"} and [Harsh Srivastava](https://www.linkedin.com/in/harshsanjivsrivastava/){target="_blank"}.*
+</center>
+
+<br>
+
+In this project, I mentored students that collaborated with **Indy Reads** to enhance the organization’s enrollment process by identifying inefficiencies and integrating current data sources. The project aimed to reduce manual data entry and create a more streamlined experience for applicants, staff, and volunteers. By reviewing the existing process—spanning Form Assembly, Salesforce, SharePoint, Calendly, and InTERS—the team ensured seamless data flow across all systems. Implementing simple automations, the students improved operational efficiency, boosted responsiveness for applicants, and significantly lowered staff workload.
+
+
+---
+
+# 2022
+
+---
+
+## Verbo ao Voto
+
+<center>
+[![](https://davicmoreira.files.wordpress.com/2022/11/verbo_voto.gif){alt="Verbo ao Voto" width="204"}](https://cpcex-lab.github.io/verbo_voto_dash/#sobre)
+</center>
+
+<br>
+
+Product of UFPE’s [Computational & Experimental Political Science Lab (@cpcex_lab)](https://cpcex-lab.rbind.io/), portraying the 2022 Brazilian presidential race. Built in collaboration with [Mônica Rocabado](https://cpcex-lab.rbind.io/author/monica-rocabado/) and [Antonio Pires](https://cpcex-lab.rbind.io/author/antonio-pires/).
+
+---
+
+## reeLegis
+
+<center>
+[![](https://davicmoreira.files.wordpress.com/2022/11/logo-reelegis.jpeg){alt="reeLegis" width="246"}](https://reelegis.netlify.app/)
+</center>
+
+<br>
+
+STM‑based analysis of 30k legislative proposals (2019‑2022). Developed in collaboration with [Renata Cavalcanti](https://cpcex-lab.rbind.io/author/renata-cavalcanti/) and [Bhreno Vieira](https://cpcex-lab.rbind.io/author/bhreno-vieira/).
+
+---
+
+# 2013
+
+---
+
+## Retórica Parlamentar
+
+<center>
+[![](https://davicmoreira.files.wordpress.com/2014/01/retorica_saude.png){alt="Retórica Parlamentar" width="241"}](https://luiscarli.com/2013/11/01/retorica/)
+</center>
+
+<br>
+
+Web app produced during the first *Hackathon Câmara dos Deputados* (2013). I engineered the web crawler and topic‑model pipeline that analysed **14k speeches** from over **400 deputies** (2011‑2013), surfacing **70 rhetorical themes**. A team of undergraduate students at Federal University of Pernambuco worked with me to relaunch the project in 2022.
+
+</div>
