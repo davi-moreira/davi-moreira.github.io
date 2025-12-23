@@ -2,13 +2,179 @@
 title: "Experiential Learning"
 ---
 
-> **_Hands‑on, data‑driven, student‑centered._**  
+> **_Hands-on, data-driven, student-centered._**  
 > Below you will find the **projects I have mentored**—whether inside my courses, through the [**Krenicki Center for Business Analytics & Machine Learning at Purdue University**](https://business.purdue.edu/centers/krenicki-center/home.php){target="_blank"}, or at academic conferences—together with any awards the work has received. 
-
 
 # 2025
 
 ---
+
+## 2025 Fall Undergraduate Research Expo  
+
+*I mentored 33 student projects that were presented as Posters. Below, you will find the [projects that were awarded in this conference](https://www.purdue.edu/undergrad-research/conferences/fall/archive/past-winners.php?){target="_blank"}, followed by a complete list of all the projects. You may access the abstracts for each project [here](https://www.purdue.edu/undergrad-research/conferences/fall/archive/documents/FallExpo_AbstractBook2025.pdf){target="_blank"}.*
+
+### Presentations Awarded With Distinction 
+
+<style>
+.poster-grid{
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important; /* 2 columns */
+  grid-auto-flow: row !important;                            /* fill rows */
+  gap: 1.25rem !important;
+  align-items: start !important;
+  margin-top: 1rem !important;
+}
+
+.poster-card{
+  border: 1px solid rgba(0,0,0,.12) !important;
+  border-radius: 14px !important;
+  padding: 0.9rem !important;
+  background: #fff !important;
+  box-shadow: 0 1px 6px rgba(0,0,0,.06) !important;
+}
+
+.poster-card p{ margin: 0 !important; }
+
+.poster-img{
+  width: 100% !important;
+  height: auto !important;
+  border-radius: 10px !important;
+  border: 1px solid rgba(0,0,0,.08) !important;
+  display: block !important;
+}
+
+.poster-title{
+  font-size: 1.02rem !important;
+  font-weight: 700 !important;
+  margin-top: 0.75rem !important;
+  line-height: 1.2 !important;
+}
+
+.poster-authors{
+  font-size: 0.92rem !important;
+  margin-top: 0.35rem !important;
+  color: rgba(0,0,0,.78) !important;
+}
+
+/* Mobile: collapse to one column */
+@media (max-width: 768px){
+  .poster-grid{ grid-template-columns: 1fr !important; }
+}
+</style>
+
+::: {.poster-grid}
+
+::: {.poster-card}
+![](figs/posters/2025F-diabetes.png){.poster-img alt="Early Detection of Diabetes Risk Among Indian Women poster"}
+
+<center> 
+**Early Detection of Diabetes Risk Among Indian Women**
+
+Susan Chen; Allison Margaret Neff; Brayden Ryan Zink; Srikar Kolla
+
+</center>
+:::
+
+::: {.poster-card}
+![](figs/posters/2025F-fourth-down.png){.poster-img alt="Predicting Fourth Down Risk poster"}
+
+<center> 
+**Predicting Fourth Down Risk**
+
+Kabeer Singh Khubbar; Samuel Anthony Fiore; Aditya Venugopal Nair
+</center>
+:::
+
+::: {.poster-card}
+![](figs/posters/2025F-air-quality.png){.poster-img alt="How The City Decides When You Can Breathe poster"}
+
+<center> 
+**How The City Decides When You Can Breathe**
+
+Max Elliott Matteucci; Andrew Logan Oberholzer; Andrew Lawrence House; Ella Sage Dawes
+</center>
+:::
+
+::: {.poster-card}
+![](figs/posters/2025F-attrition.png){.poster-img alt="Workforce Retention: Leveraging Synthetic Data to Predict Employee Attrition poster"}
+
+<center> 
+**Workforce Retention: Leveraging Synthetic Data to Predict Employee Attrition**
+
+Bocheng Wang; Ru Yi Cai; Yihao Zhou
+</center>
+:::
+
+::: {.poster-card}
+![](figs/posters/2025F-readmission.png){.poster-img alt="Predicting 30-day Readmission Risk in Diabetic Patients poster"}
+
+<center> 
+**Predicting 30-day Readmission Risk in Diabetic Patients**
+
+Cole Anthony Werner; William Gray Gattoni; Owen Alexander Hershberger; Grant Thomas Romero
+</center>
+:::
+
+::: {.poster-card}
+![](figs/posters/2025F-spotify.png){.poster-img alt="What Makes a Song a Hit? Predicting Spotify Popularity through Music Analytics poster"}
+
+<center> 
+**What Makes a Song a Hit? Predicting Spotify Popularity through Music Analytics**
+
+Megan Zhu; Alexandra Li Alderink; Rachel Kalyn Spear; Angela Peng Gao
+</center>
+:::
+
+:::
+
+
+### All Projects Presented at the 2025 Fall Undergraduate Research Expo
+
+<div style="
+  max-height: 410px;        /* adjust visible height here      */
+  overflow: auto;           /* vertical & horizontal scrolling */
+  font-size: 0.9em;         /* smaller text                     */
+  /*border: 1px solid #ccc;    thin frame (optional)            */
+">
+
+|  # | Project Title                                                                                         | Authors                                                                                                    | Type                |
+| -: | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------- |
+|  1 | Data Analytics for Transparent Health Insurance Pricing                                               | Cooper William Springs; Ethan Mathew Lebon; Matthew Wyatt Baratian                                         | Poster |
+|  2 | Forecasting Short-Term EV Charging Demand Spikes for Smarter Grid Management in the U.S.              | Zachary David Sullivan; Bernardo Bradley Chalaca Moreira; Thomas Guy Engle; Lucas Erwin Gerbsch            | Poster |
+|  3 | What Makes a Song a Hit? Predicting Spotify Popularity through Music Analytics                        | Megan Zhu; Alexandra Li Alderink; Rachel Kalyn Spear; Angela Peng Gao; Tiffany Sui                         | Poster |
+|  4 | Creating a Box-Office Hit: Determining Key Financial Indicators for Films Through Predictive Modeling | Sara Claire D'Urso; Ashley Mei Hung; Anishka Pateriya; Akhand Bindra                                       | Poster |
+|  5 | The Price is Right (Skewed): Using Features to Predict Wine Prices                                    | Nathaniel John Hiatt; Ethan Dewen Louie                                                                    | Poster |
+|  6 | Fraud Prediction on Synthetic Pop-up Retail Data: a Transaction-Level Risk Assessment                 | Adam Benjamin Houser; Sasank Nunna; Kumar Shreyansh; Shreyaa Karan                                         | Poster |
+|  7 | Predicting Term Deposit Subscription: Insights from Bank Marketing Campaign Data                      | Gavin Craig Kulak; Sulav Shrestha; Viswanath Jay Nair; Henry Patrick Merchant                              | Poster |
+|  8 | What Predicts College GPA? A Data-Driven Look at Study Habits and Test Scores                         | Eliza Jane Lutgen; Gonzalo Antonio Silva; Uddipta Sarkar; Kyle Anthony Fernandez; Angel Wang               | Poster |
+|  9 | Forecasting Credit Card Losses for Capital One Using Multi- Bank Data                                 | Grant A Moreland; Kiefer Alexander Bell; Colin Patrick Budreau; Justin Thomas Brady                        | Poster |
+| 10 | From Sound to Streams: Predicting Music Success Through Analytics                                     | Brendan William Polese; Rachel Elizabeth Carlson; Abigail Claire Smith; Mert Ryan Kiroglu                  | Poster |
+| 11 | Predicting Retail Sales Trends Using a Synthetic Dataset                                              | Neha Mary Regi; Zijing Zhang; Shih-En Wang; Christopher Cruz                                               | Poster |
+| 12 | Signals of Stardom: Explainable Prediction of NBA All-Star Selections                                 | Tyson Mark Tucci; Syuan-Rang Sean Wu; Po-Wei Lee; Francesco Joseph Facente                                 | Poster |
+| 13 | Workforce Retention: Leveraging Synthetic Data to Predict Employee Attrition                          | Bocheng Wang; Eli Nash Chandler; Ru Yi Cai; Yihao Zhou                                                     | Poster |
+| 14 | Forecasting U.S. Flight Delays with Pre-Flight Predictors                                             | Paul Ryan Warfel; Theodore Walter Moritz; Maxwell Christopher Klug; Reece Robb                             | Poster |
+| 15 | Benchwarmer to Breakout: Predicting the Next NBA Breakout Star Player                                 | Eric Yixiang Zhang; Paola Godina Salas; Harshini Madhusudhanan; Jadon Conor Salazar                        | Poster |
+| 16 | U.S. Stock Market Movements through News Headlines: A Natural Language Processing Approach            | Caleb Zachariah Brunton; Jose Jorge Bueso; Jose Manuel Estrada Garcia; Alfonsina Michelle Rodriguez        | Poster |
+| 17 | Early Detection of Diabetes Risk Among Indian Women                                                   | Susan Chen; Allison Margaret Neff; Brayden Ryan Zink; Srikar Kolla                                         | Poster |
+| 18 | Predicting Undergraduate Dropout Risk for Early, Actionable Intervention                              | Leonard Shien Chiu; Michael Ryan Gjorseski; Joshua Ginste; Artemii Chirkov                                 | Poster |
+| 19 | What Makes a House Valuable? Predicting Home Prices to Improve Transparency in the U.S. Market        | Sebastian Felipe Gil Eskildsen; James William Pope; Roberto Andres Chinchilla Varela; Juan Antonio Sevilla | Poster |
+| 20 | Predicting Consumer Credit Default Risk                                                               | Aidan Joshua Hershberger; Yutian Ye; Jizheng Li; Cole R Bailey                                             | Poster |
+| 21 | Predicting Best Actors and Directors for Up-and-Coming Netflix Movies                                 | Kinaya Arielle Hines; Robert Pedro Chambers; Somin Yang; Emi Victoria Robinson                             | Poster |
+| 22 | How The City Decides When You Can Breathe                                                             | Max Elliott Matteucci; Andrew Logan Oberholzer; Andrew Lawrence House; Ella Sage Dawes                     | Poster |
+| 23 | U.S. Hub Airports: Predicting Airline Arrival Delays                                                  | Newla Moo; Alacya Madison Lynch; Kristen Taylor O'Leary; Cydney Allyn Culver                               | Poster |
+| 24 | How Many Hours Will You Sleep? Utilizing Synthetic Data to Predict Quantity of Sleep                  | Kundana Nittala; Esther L Larson; Emilio Andres Pino; Shree Krishna Tulasi Bavana                          | Poster |
+| 25 | Predicting Country GDP Growth: A data driven approach to economic modelling and decision making       | Ace Setiawan; Gavin Patrick Connolly; Gabriel John Carlson; Sean Patrick Patterson                         | Poster |
+| 26 | Predicting Sports Injury Risk: A Data-Driven Approach to Athlete Health Management                    | Yusuf Anis Sherali; Shashank Venkata Seerum; Sanjay Anthony Jaikaran; Jeenay Vipul Dedhia                  | Poster |
+| 27 | Predicting 30-day Readmission Risk in Diabetic Patients                                               | Cole Anthony Werner; William Gray Gattoni; Owen Alexander Hershberger; Grant Thomas Romero                 | Poster |
+| 28 | Beyond the Box Score – Predicting Playoff Success in the NBA                                          | Michael Downing Yancy; Diego Alberto Cavero; Nicholas Richard Boyd; Elliott Jameson Soderberg              | Poster |
+| 29 | Predicting Fourth Down Risk                                                                           | Kabeer Singh Khubbar; Samuel Anthony Fiore; Bruno Andres Knize Simon; Aditya Venugopal Nair                | Poster |
+| 30 | Formula 1 Race Performance: An Analytical Dive into Pit Stop Strategy                                 | Rishita Korapati; Mia Bell Foulk; Chih-Yu Lee; Varsha Devisetty                                            | Poster |
+| 31 | Understanding Product Returns in E-Commerce: A Predictive Analysis Using Synthetic Data               | Vitoria Machado Machado Didone; Jack Dorsey Feehan; Ashton Anthony Price; Owen Thomas Edwards              | Poster |
+| 32 | Predicting Long-Term Brand Loyalty from Influencer Exposure: A Multi-Model Segment-Aware Approach     | Ashish Krishna Mallur; Annika Anders Nelson; Brandon J Moss                                                | Poster |
+| 33 | Predicting Student Academic Stress for Early Intervention                                             | Jari L Warner; Arush Sowreddy Medam; Ansh Pahwa; Destinee Walker                                           | Poster |
+
+</div>
+
 
 ## 2025 Summer Undergraduate Research Symposium
 
@@ -20,6 +186,7 @@ title: "Experiential Learning"
 *[Video] Sales Forecasting Automation: the case of Girl Scouts of Central Indiana by Parth Kapila and collaboration with Ramya Chowdary Polineni*
 </center>
 
+### Second Place Research Talk Award 2025 – Daniels School of Business
 
 ## 2025 Spring Undergraduate Research Conference  
 
