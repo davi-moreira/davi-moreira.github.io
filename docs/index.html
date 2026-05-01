@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Davi Moreira</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -35,10 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -162,7 +165,7 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 <p><strong>Welcome!</strong></p>
-<p>I am a Clinical Assistant Professor in the <a href="https://business.purdue.edu/academics/quantitative-methods/">Quantitative Methods Department at the Mitch Daniels School of Business, Purdue University</a>. Before this, I held several academic positions, including Visiting Assistant Professor positions at the <a href="https://quantitative.emory.edu/index.html">Quantitative Theory and Methods Department at Emory University</a> and the <a href="https://gps.ucsd.edu/">School of Global Policy and Strategy at UC San Diego</a>. I also served as an Assistant Professor in the <a href="https://www.ufpe.br/dcp">Political Science Department at the Federal University of Pernambuco (UFPE) in Brazil</a>. In 2017, I was honored with the Best Brazilian Ph.D.&nbsp;Dissertation Prize in Political Science and International Relations.</p>
+<p>I am a <a href="https://business.purdue.edu/academics/quantitative-methods/">Clinical Assistant Professor in the Quantitative Methods Department and Director of Daniels Undergraduate Business Honors Program at Purdue University</a>. Before this, I held several academic positions, including Visiting Assistant Professor positions at the <a href="https://quantitative.emory.edu/index.html">Quantitative Theory and Methods Department at Emory University</a> and the <a href="https://gps.ucsd.edu/">School of Global Policy and Strategy at UC San Diego</a>. I also served as an Assistant Professor in the <a href="https://www.ufpe.br/dcp">Political Science Department at the Federal University of Pernambuco (UFPE) in Brazil</a>. In 2017, I was honored with the Best Brazilian Ph.D.&nbsp;Dissertation Prize in Political Science and International Relations.</p>
 <p>My research and teaching interests focus on applied Data Science, Text as Data, NLP, Predictive Analytics, and Artificial Intelligence.</p>
 
 
@@ -213,13 +216,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
