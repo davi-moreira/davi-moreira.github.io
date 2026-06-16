@@ -2,6 +2,10 @@
 title: "Blog"
 ---
 
+# **How Co-Designing a Course With AI Changed the Way I Work and Use My Computer**
+
+I wrote an essay on Substack about redesigning my Predictive Analytics course (QM47400) from a 16-week in-person course into a 4-week online intensive with [Claude Code](https://www.anthropic.com/claude-code){target="_blank"} as an AI co-designer. The piece is less about the course itself and more about how the experience changed the way I work: at some point my computer stopped being a single tool I operate and became a small team of AI agents I manage, first while building the course and then while teaching it. You can read it [here](https://davicmoreira.substack.com/p/how-co-designing-a-course-with-ai){target="_blank"}.
+
 # **Turning Data Into Impact**
 
 I'm pleased to share an inspiring story about the transformative impact of experiential learning projects I mentored at Purdue University's Daniels School of Business this Spring Semester in 2025. This feature highlights how my students have successfully leveraged their data science and analytical skills to support nonprofit organizations, such as Indy Reads and Girl Scouts of Central Indiana. Through these collaborative projects, our students not only gained valuable real-world experience but also made meaningful contributions by improving operational efficiency and decision-making capabilities for these community-focused organizations. You can read more about this enriching collaboration and its positive outcomes [here](https://business.purdue.edu/news/features/2025/turning-data-into-impact.php){target="_blank"}.

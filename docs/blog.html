@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Blog – Davi Moreira</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -36,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -129,7 +132,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#turning-data-into-impact" id="toc-turning-data-into-impact" class="nav-link active" data-scroll-target="#turning-data-into-impact"><strong>Turning Data Into Impact</strong></a></li>
+  <li><a href="#how-co-designing-a-course-with-ai-changed-the-way-i-work-and-use-my-computer" id="toc-how-co-designing-a-course-with-ai-changed-the-way-i-work-and-use-my-computer" class="nav-link active" data-scroll-target="#how-co-designing-a-course-with-ai-changed-the-way-i-work-and-use-my-computer"><strong>How Co-Designing a Course With AI Changed the Way I Work and Use My Computer</strong></a></li>
+  <li><a href="#turning-data-into-impact" id="toc-turning-data-into-impact" class="nav-link" data-scroll-target="#turning-data-into-impact"><strong>Turning Data Into Impact</strong></a></li>
   <li><a href="#transforming-nonprofits-empowering-students" id="toc-transforming-nonprofits-empowering-students" class="nav-link" data-scroll-target="#transforming-nonprofits-empowering-students"><strong>Transforming Nonprofits, Empowering Students</strong></a></li>
   <li><a href="#ciências-sociais-computacionais-texto-como-dado" id="toc-ciências-sociais-computacionais-texto-como-dado" class="nav-link" data-scroll-target="#ciências-sociais-computacionais-texto-como-dado"><strong>Ciências Sociais Computacionais: texto como dado</strong></a></li>
   <li><a href="#teoria-da-conspiração-e-agenda-internacional" id="toc-teoria-da-conspiração-e-agenda-internacional" class="nav-link" data-scroll-target="#teoria-da-conspiração-e-agenda-internacional"><strong>Teoria da conspiração e agenda internacional</strong></a></li>
@@ -164,6 +168,10 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="how-co-designing-a-course-with-ai-changed-the-way-i-work-and-use-my-computer" class="level1">
+<h1><strong>How Co-Designing a Course With AI Changed the Way I Work and Use My Computer</strong></h1>
+<p>I wrote an essay on Substack about redesigning my Predictive Analytics course (QM47400) from a 16-week in-person course into a 4-week online intensive with <a href="https://www.anthropic.com/claude-code" target="_blank">Claude Code</a> as an AI co-designer. The piece is less about the course itself and more about how the experience changed the way I work: at some point my computer stopped being a single tool I operate and became a small team of AI agents I manage, first while building the course and then while teaching it. You can read it <a href="https://davicmoreira.substack.com/p/how-co-designing-a-course-with-ai" target="_blank">here</a>.</p>
+</section>
 <section id="turning-data-into-impact" class="level1">
 <h1><strong>Turning Data Into Impact</strong></h1>
 <p>I’m pleased to share an inspiring story about the transformative impact of experiential learning projects I mentored at Purdue University’s Daniels School of Business this Spring Semester in 2025. This feature highlights how my students have successfully leveraged their data science and analytical skills to support nonprofit organizations, such as Indy Reads and Girl Scouts of Central Indiana. Through these collaborative projects, our students not only gained valuable real-world experience but also made meaningful contributions by improving operational efficiency and decision-making capabilities for these community-focused organizations. You can read more about this enriching collaboration and its positive outcomes <a href="https://business.purdue.edu/news/features/2025/turning-data-into-impact.php" target="_blank">here</a>.</p>
@@ -266,13 +274,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
