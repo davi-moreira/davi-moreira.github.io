@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Davi Moreira"
+  google-analytics: "G-V6477JGNJ6"
   navbar:
     left:
       - href: research.qmd
