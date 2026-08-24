@@ -3,3 +3,10 @@
 .center-text {
   text-align: center;
 }
+
+/* A section heading already draws its own rule underneath it, and Bootstrap's
+   .table adds a top border. Stacked, they read as a double line above the
+   header row, so drop the table's border when it directly follows a heading. */
+h2 + table.table {
+  border-top: 0;
+}
