@@ -4,6 +4,8 @@ title: "Teaching"
 
 My teaching expertise spans from math, statistics, programming languages, data science, machine learning, research design, and causal inference to substantive political science courses tailored for both undergraduate and graduate students. Below you find the list of courses I taught - click the link and check the course material:
 
+## Courses taught
+
 | Year.Semester.Quarter | Course title | Level   | Institution | Material |
 |-----------------------|--------------|---------|-------------|----------|
 | 2026.2     | Evidence-Driven Research | Undergraduate | Purdue University| [website](https://davi-moreira.github.io/2026F_evidence_driven_research_purdue_HONR464/){target="_blank"} |
@@ -48,5 +50,3 @@ My teaching expertise spans from math, statistics, programming languages, data s
 | 2019.1                             | Data Analysis                                              | Graduate      | UFPE | [syllabus](https://www.dropbox.com/scl/fi/36a5xzpil2fxixzd741uk/97_20190611_programa_analise_dados_UFPE.pdf?rlkey=f81y59hjlio0ru0cg19sd1geo&dl=0){target="_blank"}|
 | 2018.2                             | Data Analysis                                              | Graduate      | UFPE | [syllabus](https://www.dropbox.com/scl/fi/02f50qkgd4esduk3ofvnd/98_20181127_programa_analise_dados_UFPE_clean.pdf?rlkey=g6bp5jfxn206ge8nx95ilzy9t&dl=0){target="_blank"}|
 | 2018.2                             | Introduction to R programming language                     | Graduate      | UFPE | [syllabus](https://www.dropbox.com/scl/fi/a0xncpc66aim6wxtu4oxs/99_programa_intro_r_2018.pdf?rlkey=j21u0ld40zwsazejkivoo2fll&dl=0){target="_blank"}|
-
-## 
