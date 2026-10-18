@@ -10,6 +10,18 @@ title: "Research"
 [Text as Data for Social Scientists (pt-br)](https://bookdown.org/davi_moreira/txt4cs/){target="_blank"}
 :::
 
+## **Grants**
+
+**2026**
+
+-   Interdisciplinary Research Generator Grant (US\$30,000) - John Martinson Honors College, Purdue University. **SIGNAL**, a two-year undergraduate research lab on how communication shapes markets, firms, public decisions, and opinion.
+
+-   Experiential Learning Grant (US\$5,000) - Daniels School of Business, Purdue University. MGMT 47400 Predictive Analytics "Poster-to-Product" project.
+
+**2022**
+
+-   CAPES Applied and Collaborative Research Grant (US\$80,739) - Brazilian Government. 24-month project to enhance Brazilian civil society organizations' advocacy strategies.
+
 ## **Publications**
 
 <!--- **Submitted/Under Review** --->

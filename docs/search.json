@@ -25,7 +25,7 @@
     "href": "awards.html",
     "title": "Awards",
     "section": "",
-    "text": "2026\n\nIBE Innovative Teacher of the Year Award - Integrated Business and Engineering Program, Purdue University.\nHonors Research Fellow - John Martinson Honors College, Purdue University.\nJohn Martinson Honors College Fellow - Purdue University (starting Fall 2026).\n\n2017\n\nBest Brazilian Ph.D. Thesis in Political Science and International Relations (CAPES Thesis Awards): Brazilian parliamentary communication: floor speeches frequency and expressed agendas.\n\n2012\n\nBest paper of the II Graduate Student Seminar in Political Science of the University of São Paulo. Federal Tax Benefits and Electoral Connection in Brazil: the granting of benefits related to PIS, COFINS, and CSLL."
+    "text": "2026\n\nIBE Innovative Teacher of the Year Award - Integrated Business and Engineering Program, Purdue University.\n\n2017\n\nBest Brazilian Ph.D. Thesis in Political Science and International Relations (CAPES Thesis Awards): Brazilian parliamentary communication: floor speeches frequency and expressed agendas.\n\n2012\n\nBest paper of the II Graduate Student Seminar in Political Science of the University of São Paulo. Federal Tax Benefits and Electoral Connection in Brazil: the granting of benefits related to PIS, COFINS, and CSLL."
   },
   {
     "objectID": "about.html",
@@ -109,7 +109,7 @@
     "href": "index.html",
     "title": "Davi Moreira",
     "section": "",
-    "text": "Welcome!\nI am a Clinical Assistant Professor in the Quantitative Methods Department and Director of Daniels Undergraduate Business Honors Program at Purdue University. Before this, I held several academic positions, including Visiting Assistant Professor positions at the Department of Data and Decision Sciences at Emory University and the School of Global Policy and Strategy at UC San Diego. I also served as an Assistant Professor in the Political Science Department at the Federal University of Pernambuco (UFPE) in Brazil. I currently direct SIGNAL, an undergraduate research lab at the John Martinson Honors College on how communication shapes markets, firms, public decisions, and opinion, funded by a two-year Honors College Interdisciplinary Research Generator Grant. In 2026, I received the IBE Innovative Teacher of the Year Award and was named a John Martinson Honors College Fellow and Honors Research Fellow. In 2017, I was honored with the Best Brazilian Ph.D. Dissertation Prize in Political Science and International Relations.\nMy research and teaching center on applied data science, spanning statistics, natural language processing, predictive analytics, causal inference, and artificial intelligence."
+    "text": "Welcome!\nI am a Clinical Assistant Professor in the Quantitative Methods Department at Purdue University’s Mitch Daniels School of Business. My research and teaching center on applied data science, spanning statistics, natural language processing, predictive analytics, causal inference, and artificial intelligence.\nBefore Purdue, I held Visiting Assistant Professor positions at the Department of Data and Decision Sciences at Emory University and the School of Global Policy and Strategy at UC San Diego, and was an Assistant Professor in the Political Science Department at the Federal University of Pernambuco (UFPE) in Brazil."
   },
   {
     "objectID": "research.html",
@@ -143,6 +143,27 @@
     "objectID": "awards.html#grants",
     "href": "awards.html#grants",
     "title": "Awards",
+    "section": "Grants",
+    "text": "Grants\n2026\n\nInterdisciplinary Research Generator Grant (US$30,000) - John Martinson Honors College, Purdue University. SIGNAL, a two-year undergraduate research lab on how communication shapes markets, firms, public decisions, and opinion.\nExperiential Learning Grant (US$5,000) - Daniels School of Business, Purdue University. MGMT 47400 Predictive Analytics “Poster-to-Product” project.\n\n2022\n\nCAPES Applied and Collaborative Research Grant (US$80,739) - Brazilian Government. 24-month project to enhance Brazilian civil society organizations’ advocacy strategies."
+  },
+  {
+    "objectID": "index.html#current-roles",
+    "href": "index.html#current-roles",
+    "title": "Davi Moreira",
+    "section": "Current roles",
+    "text": "Current roles\n\nClinical Assistant Professor, Quantitative Methods Department, Purdue University\nDirector, Daniels Undergraduate Business Honors Program\nDirector, SIGNAL Lab, John Martinson Honors College\nJohn Martinson Honors College Fellow and Honors Research Fellow"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Davi Moreira",
+    "section": "News",
+    "text": "News\n\n\n2026 Received the IBE Innovative Teacher of the Year Award from Purdue’s Integrated Business and Engineering Program.\nSep 2026 Launched SIGNAL, a two-year undergraduate research lab on how communication shapes markets, firms, public decisions, and opinion, funded by an Honors College Interdisciplinary Research Generator Grant.\nFall 2026 Named a John Martinson Honors College Fellow and Honors Research Fellow.\nFall 2026 Teaching Evidence-Driven Research, Business Analytics, and Predictive Analytics.\nMay 2026 Became Director of the Daniels Undergraduate Business Honors Program.\nFall 2025 Mentored 33 student poster projects at the Purdue Undergraduate Research Expo."
+  },
+  {
+    "objectID": "research.html#grants",
+    "href": "research.html#grants",
+    "title": "Research",
     "section": "Grants",
     "text": "Grants\n2026\n\nInterdisciplinary Research Generator Grant (US$30,000) - John Martinson Honors College, Purdue University. SIGNAL, a two-year undergraduate research lab on how communication shapes markets, firms, public decisions, and opinion.\nExperiential Learning Grant (US$5,000) - Daniels School of Business, Purdue University. MGMT 47400 Predictive Analytics “Poster-to-Product” project.\n\n2022\n\nCAPES Applied and Collaborative Research Grant (US$80,739) - Brazilian Government. 24-month project to enhance Brazilian civil society organizations’ advocacy strategies."
   }
