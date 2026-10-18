@@ -10,22 +10,3 @@
 h2 + table.table {
   border-top: 0;
 }
-
-/* Home page news list: date in a fixed column, no bullets. */
-.news ul {
-  list-style: none;
-  padding-left: 0;
-}
-
-.news li {
-  position: relative;
-  padding-left: 6.5rem;
-  margin-bottom: 0.6rem;
-}
-
-.news-date {
-  position: absolute;
-  left: 0;
-  color: #6c757d;
-  font-weight: 600;
-}

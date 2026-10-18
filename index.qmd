@@ -29,20 +29,9 @@ I am a [Clinical Assistant Professor in the Quantitative Methods Department](htt
 
 Before Purdue, I held Visiting Assistant Professor positions at the [Department of Data and Decision Sciences at Emory University](https://datascience.emory.edu/) and the [School of Global Policy and Strategy at UC San Diego](https://gps.ucsd.edu/), and was an Assistant Professor in the [Political Science Department at the Federal University of Pernambuco (UFPE) in Brazil](https://www.ufpe.br/dcp).
 
-## Current roles
+**Current roles**
 
 -   Clinical Assistant Professor, [Quantitative Methods Department](https://business.purdue.edu/academics/quantitative-methods/), Purdue University
 -   Director, Daniels Undergraduate Business Honors Program
 -   Director, [SIGNAL Lab](research.qmd#grants), John Martinson Honors College
 -   John Martinson Honors College Fellow and Honors Research Fellow
-
-## News
-
-::: news
--   [2026]{.news-date} Received the IBE Innovative Teacher of the Year Award from Purdue's Integrated Business and Engineering Program.
--   [Sep 2026]{.news-date} Launched [SIGNAL](research.qmd#grants), a two-year undergraduate research lab on how communication shapes markets, firms, public decisions, and opinion, funded by an Honors College Interdisciplinary Research Generator Grant.
--   [Fall 2026]{.news-date} Named a John Martinson Honors College Fellow and Honors Research Fellow.
--   [Fall 2026]{.news-date} Teaching [Evidence-Driven Research](https://davi-moreira.github.io/2026F_evidence_driven_research_purdue_HONR464/){target="_blank"}, [Business Analytics](https://davi-moreira.github.io/2026F_business_analytics_qm670/){target="_blank"}, and [Predictive Analytics](https://davi-moreira.github.io/2026F_predictive_analytics_QM474/){target="_blank"}.
--   [May 2026]{.news-date} Became Director of the Daniels Undergraduate Business Honors Program.
--   [Fall 2025]{.news-date} Mentored 33 student poster projects at the [Purdue Undergraduate Research Expo](applied_projects.qmd).
-:::
