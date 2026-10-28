@@ -33,5 +33,5 @@ Before Purdue, I held Visiting Assistant Professor positions at the [Department 
 
 -   Clinical Assistant Professor, [Quantitative Methods Department](https://business.purdue.edu/academics/quantitative-methods/), Purdue University
 -   Director, Daniels Undergraduate Business Honors Program
--   Director, [SIGNAL Lab](research.qmd#grants), John Martinson Honors College
+-   Director, [SIGNAL Lab](https://davi-moreira-lab.github.io/signal-website/), John Martinson Honors College
 -   John Martinson Honors College Fellow and Honors Research Fellow

@@ -2,13 +2,37 @@
 title: "Research"
 ---
 
+## **Research Lab**
+
+[![](signal-mark.svg){fig-align="center" width="120" fig-alt="SIGNAL website"}](https://davi-moreira-lab.github.io/signal-website/){target="_blank"}
+
+::: center-text
+[SIGNAL: Finding the signal in public language](https://davi-moreira-lab.github.io/signal-website/){target="_blank"}
+:::
+
+I direct SIGNAL, a research program of the Davi Moreira Research Lab and an Interdisciplinary Research Generator of Purdue University's John Martinson Honors College for AY 2026–2028. SIGNAL studies how communication shapes markets, firms, public decisions, and opinion.
+
 ## **Books**
 
+:::: {.columns}
+
+::: {.column width="50%"}
+[![](edrai_cover.jpg){fig-align="center" width="100" fig-alt="EDR|AI book cover"}](https://davi-moreira.github.io/2026F_evidence_driven_research_purdue_HONR464/book/){target="_blank"}
+
+::: center-text
+[EDR|AI: Evidence-Driven Research in the Age of AI](https://davi-moreira.github.io/2026F_evidence_driven_research_purdue_HONR464/book/){target="_blank"}
+:::
+:::
+
+::: {.column width="50%"}
 [![](txt4cs.webp){fig-align="center" width="195"}](https://bookdown.org/davi_moreira/txt4cs/){target="_blank"}
 
 ::: center-text
 [Text as Data for Social Scientists (pt-br)](https://bookdown.org/davi_moreira/txt4cs/){target="_blank"}
 :::
+:::
+
+::::
 
 ## **Grants**
 
